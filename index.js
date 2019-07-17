@@ -24,8 +24,8 @@ function divide(a, b)
  }
  function makeInt(n)
  { 
-   parseInt(makeInt, 10)
-   return 0
+   parseInt(n, 10)
+   return n
  }
   function preserveDecimal(n)
  {
