@@ -27,11 +27,7 @@ function divide(a, b)
    parseInt("n", base)
    return n
  }
- function base("10")
- {
-   return 10
- }
- function preserveDecimal(n)
+  function preserveDecimal(n)
  {
    parseFloat(n)
    return n
