@@ -22,7 +22,7 @@ function divide(a, b)
  {
    return n - 1
  }
- function makeInt(n)
+ function makeInt(n, base)
  { 
    parseInt("n", base)
    return n
