@@ -27,7 +27,7 @@ function divide(a, b)
    parseInt("n", base)
    return n
  }
- function base(10)
+ function base("10")
  {
    return 10
  }
