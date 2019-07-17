@@ -22,3 +22,8 @@ function divide(a, b)
  {
    return n - 1
  }
+ function makeInt(n)
+ { 
+   parseInt("n", 10)
+   return n
+ }
