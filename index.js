@@ -27,3 +27,8 @@ function divide(a, b)
    parseInt("n", 10)
    return n
  }
+ function preserveDecimal(n)
+ {
+   parseFloat(n)
+   
+ }
