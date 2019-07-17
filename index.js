@@ -22,9 +22,9 @@ function divide(a, b)
  {
    return n - 1
  }
- function makeInt(n, base)
+ function makeInt(n)
  { 
-   parseInt("n", base)
+   parseInt(makeInt)
    return n
  }
   function preserveDecimal(n)
