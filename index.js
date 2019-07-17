@@ -24,6 +24,7 @@ function divide(a, b)
  }
  function makeInt(n, base)
  { 
+   return (base = 10)
    parseInt("n", base)
    return n
  }
